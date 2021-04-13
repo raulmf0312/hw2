@@ -1,4 +1,4 @@
-Website link:
+Website link: https://hopeful-curran-ce2fa4.netlify.app 
 
 
 Due to the recent drama with Megexit, I was inspired to make a joke website for a fictitious PR firm "Crown & King CO." that manages the public view of royal families and religious organizations. It is supposed to be tongue-in-cheek and not serious at all and that is why I have included a disclaimer at the bottom of each page.
